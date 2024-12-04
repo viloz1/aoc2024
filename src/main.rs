@@ -1,6 +1,8 @@
+use solutions::day1;
+
 pub mod utils;
 pub mod solutions;
 
 fn main() {
-    println!("Hello, world!");
+    day1::part2();
 }
